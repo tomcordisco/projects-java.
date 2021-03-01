@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Tomás Cordisco
+Main-Class: Bienvenida
+X-COMMENT: Desarrollado y distribuido por Cordisco's Company. All rights reserved.
