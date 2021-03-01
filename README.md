@@ -1,1 +1,1 @@
-# projects-java.
+Proyectos hechos excusivamente en Java.
